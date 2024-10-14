@@ -5,6 +5,10 @@
 <p>Here is the link to the explanation ppt. <a href="">Click here</a></p>
 </br>
 
+<h2>Video Solution</h2>
+<p>Here is the link to the video solution. <a href="">Click here</a></p>
+</br>
+
 <h2>Tesseract OCR</h2>
 
 
