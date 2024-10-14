@@ -13,19 +13,41 @@
 
 
 <h2>Installation</h2>
+For expiration_date_verification.py ( to verify the expiry date of a packaged item )
+</br>
+
+
 1. Run the following commands for the installation of the requireds libraries:
 
 ```
-pip install opencv-python numpy tesseract pillow
+pip install pillow pytesseract opencv-python numpy
 
 [Note: If error is met while installing, then run the install command separately.
-For example, pip install opencv-python, pip install numpy, pip install pillow, pip install tesseract]
+For example, pip install opencv-python, pip install numpy, pip install pillow, pip install pytesseract]
 ```
 
 2. Run the Python file using the following command:
 
 ```
-  python main.py
+  python expiration_date_verification.py
+```
+
+</br>
+For fresh_produce_inspection.py ( to inspect the quality of fresh produce )
+</br>
+1. Run the following commands for the installation of the requireds libraries:
+
+```
+pip install opencv-python numpy
+
+[Note: If error is met while installing, then run the install command separately.
+For example, pip install opencv-python, pip install numpy]
+```
+
+2. Run the Python file using the following command:
+
+```
+  python fresh_produce_inspection.py
 ```
 </br>
 
@@ -35,7 +57,7 @@ For example, pip install opencv-python, pip install numpy, pip install pillow, p
 
 <h2>Programming Languages Used</h2>
 <div align="center">
-  <img aligh="center" src="https://skillicons.dev/icons?i=python" alt="Languages and Tools">
+  <img aligh="center" src="https://skillicons.dev/icons?i=python,opencv" alt="Languages and Tools">
 </div>
 </br>
 
