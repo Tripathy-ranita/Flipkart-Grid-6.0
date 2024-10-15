@@ -10,6 +10,7 @@
 </br>
 
 <h2>Tesseract OCR</h2>
+
 To download and set up Tesseract OCR, follow these steps:
 
 **Step 1: Download Tesseract OCR**
@@ -82,6 +83,7 @@ You can add the Tesseract folder to your system's PATH environment variable so t
    - Click **New** and add the path to the Tesseract executable (e.g., `C:\Program Files\Tesseract-OCR\`).
 
 After this step, you will no longer need to explicitly define the path to the Tesseract executable in your Python code.
+</br>
 
 <h2>Installation</h2>
 For expiration_date_verification.py ( to verify the expiry date of a packaged item )
